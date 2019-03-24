@@ -14,3 +14,4 @@ Paragraph.
 - Another one
 
 I'm adding this in my local version of this repository.
+Now I'm working on the command line.
